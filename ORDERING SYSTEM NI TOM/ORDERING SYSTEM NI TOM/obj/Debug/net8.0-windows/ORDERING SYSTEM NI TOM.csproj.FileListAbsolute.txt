@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\bin\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.exe
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\bin\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.deps.json
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\bin\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.runtimeconfig.json
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\bin\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.dll
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\bin\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.pdb
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING_SYSTEM_NI_TOM.Form1.resources
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.AssemblyInfo.cs
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.dll
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\refint\ORDERING SYSTEM NI TOM.dll
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.pdb
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ORDERING SYSTEM NI TOM.genruntimeconfig.cache
+C:\Users\PC\source\repos\ORDERING SYSTEM NI TOM\ORDERING SYSTEM NI TOM\obj\Debug\net8.0-windows\ref\ORDERING SYSTEM NI TOM.dll
